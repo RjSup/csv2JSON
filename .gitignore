@@ -1,0 +1,5 @@
+*.exe
+/testJsonFiles
+*.csv
+*.json
+main_test.go
